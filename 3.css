@@ -1,0 +1,308 @@
+.mediaViewInfo {
+	--web-view-name: Третий;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+# {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(238,238,238,1);
+	overflow: hidden;
+	--web-view-name: Третий;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#_1_bi {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._1_bi {
+	position: absolute;
+	overflow: visible;
+	width: 1211px;
+	height: 86px;
+	left: 365px;
+	top: 80px;
+}
+#_bj {
+	left: 857.5px;
+	top: 97.5px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_2_bk {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2_bk {
+	position: absolute;
+	overflow: visible;
+	width: 643px;
+	height: 203px;
+	left: 365px;
+	top: 203px;
+}
+#_-______bl {
+	left: 454.5px;
+	top: 226.5px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_2_bm {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2_bm {
+	position: absolute;
+	overflow: visible;
+	width: 1293px;
+	height: 323px;
+	left: 324px;
+	top: 439px;
+}
+#_2_bn {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2_bn {
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	height: 203px;
+	left: 1049px;
+	top: 203px;
+}
+#______bo {
+	left: 1122.5px;
+	top: 226.5px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#__________-____A_B_C_-__x_y_z_ {
+	left: 343px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 1257px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_5 {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._5 {
+	position: absolute;
+	overflow: visible;
+	width: 1211px;
+	height: 86px;
+	left: 365px;
+	top: 789px;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: 4.html;
+	cursor: pointer;
+}
+#__ {
+	left: 736.5px;
+	top: 806.5px;
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_13 {
+	fill: rgba(79,64,218,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._13 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 86px;
+	left: 29px;
+	top: 80px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#_bt {
+	left: 50px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}
+#_14 {
+	fill: rgba(79,64,218,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._14 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 86px;
+	left: 29px;
+	top: 186px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 1.html;
+	cursor: pointer;
+}
+#_bv {
+	left: 50px;
+	top: 203px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}
+#_15 {
+	fill: rgba(79,64,218,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._15 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 86px;
+	left: 29px;
+	top: 292px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 2.html;
+	cursor: pointer;
+}
+#-_- {
+	left: 50px;
+	top: 309.5px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}

@@ -1,0 +1,131 @@
+.mediaViewInfo {
+	--web-view-name: Начало;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+._Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(238,238,238,1);
+	overflow: hidden;
+	--web-view-name: Начало;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+._3__1_Class {
+	position: absolute;
+	width: 553px;
+	height: 86px;
+	left: 684px;
+	top: 497px;
+	overflow: visible;
+}
+._1__1_Class {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 553px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._1_Class {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._1 {
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 1.html;
+	cursor: pointer;
+}
+._r_Class {
+	left: 173.5px;
+	top: 17.5px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+._snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0;
+	top: 0;
+}

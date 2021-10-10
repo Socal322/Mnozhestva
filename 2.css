@@ -1,0 +1,241 @@
+.mediaViewInfo {
+	--web-view-name: Второй;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+# {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(238,238,238,1);
+	overflow: hidden;
+	--web-view-name: Второй;
+	--web-view-id: ;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#_1_ {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._1_ {
+	position: absolute;
+	overflow: visible;
+	width: 1211px;
+	height: 86px;
+	left: 365px;
+	top: 80px;
+}
+#_ba {
+	left: 857.5px;
+	top: 97.5px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_2_ {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2_ {
+	position: absolute;
+	overflow: visible;
+	width: 643px;
+	height: 203px;
+	left: 365px;
+	top: 203px;
+}
+#_-______ {
+	left: 454.5px;
+	top: 226.5px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_2_ba {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	height: 203px;
+	left: 1049px;
+	top: 203px;
+}
+#_____ {
+	left: 1122.5px;
+	top: 226.5px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_4 {
+	fill: rgba(245,245,245,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._4 {
+	position: absolute;
+	overflow: visible;
+	width: 1211px;
+	height: 86px;
+	left: 365px;
+	top: 436px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 3.html;
+	cursor: pointer;
+}
+#______ {
+	left: 404.5px;
+	top: 453.5px;
+	position: absolute;
+	overflow: visible;
+	width: 1133px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#_11 {
+	fill: rgba(79,64,218,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._11 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 86px;
+	left: 29px;
+	top: 80px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#_bd {
+	left: 50px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}
+#_12 {
+	fill: rgba(79,64,218,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._12 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 86px;
+	left: 29px;
+	top: 186px;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 1.html;
+	cursor: pointer;
+}
+#_bf {
+	left: 50px;
+	top: 203px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}
